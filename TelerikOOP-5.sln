@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGeometry", "SimpleGeometry\SimpleGeometry.csproj", "{EFDFE8F1-EEAE-4FF5-9CB7-4D4419678189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance", "Finance\Finance.csproj", "{B36483D5-ED11-4CC5-910F-30D308051237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{A25C8D84-8C36-4E07-9788-BBE7515B48BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDFE8F1-EEAE-4FF5-9CB7-4D4419678189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDFE8F1-EEAE-4FF5-9CB7-4D4419678189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDFE8F1-EEAE-4FF5-9CB7-4D4419678189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDFE8F1-EEAE-4FF5-9CB7-4D4419678189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36483D5-ED11-4CC5-910F-30D308051237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36483D5-ED11-4CC5-910F-30D308051237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36483D5-ED11-4CC5-910F-30D308051237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36483D5-ED11-4CC5-910F-30D308051237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25C8D84-8C36-4E07-9788-BBE7515B48BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25C8D84-8C36-4E07-9788-BBE7515B48BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25C8D84-8C36-4E07-9788-BBE7515B48BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25C8D84-8C36-4E07-9788-BBE7515B48BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
